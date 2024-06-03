@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lmenezes33
+- 👋 Hi, I’m @Lucas Menezes
 - 👀 I’m interested in Games and Technology
 - 🌱 I’m currently learning English, Cloud Computing and process analising
 - 💞️ I’m looking to collaborate on update my knowled studyng english, technology, health and development 
